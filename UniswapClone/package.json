@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^16.0.1",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.4.16"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "bn.js": "^5.2.0",
+    "eslint": "^8.1.0",
+    "prettier": "^2.4.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.18"
+  }
+}
+
